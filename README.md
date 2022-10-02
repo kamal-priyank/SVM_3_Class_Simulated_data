@@ -3,7 +3,7 @@
 
 ![](Aspose.Words.10897a61-cebf-49ed-aa94-8c37c135bb74.004.jpeg)
 
-3) The data set is split into a training set of 50% and a test set of 50% and the support vector machine is trained with a linear kernel, a polynomial kernel and an RBF or a Radial kernel on the training data with all the parameters tuned by 5-fold cross validation.  
+The data set is split into a training set of 50% and a test set of 50% and the support vector machine is trained with a linear kernel, a polynomial kernel and an RBF or a Radial kernel on the training data with all the parameters tuned by 5-fold cross validation.  
 
 ![](Aspose.Words.10897a61-cebf-49ed-aa94-8c37c135bb74.005.jpeg)
 
